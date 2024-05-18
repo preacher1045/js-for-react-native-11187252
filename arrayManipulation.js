@@ -49,3 +49,4 @@ let updatedStringArray = formatArrayStrings(arrayUpdate, myStringArray)
 console.log(updatedStringArray.numArray);
 console.log(updatedStringArray.stringArray);
 
+
